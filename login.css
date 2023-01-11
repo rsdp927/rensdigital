@@ -1,0 +1,251 @@
+*{
+		box-sizing: border-box;
+}
+
+body {
+    position: absolute;
+    width: 1310px;
+    height: 632px;
+    left: 22.5px;
+    padding: auto;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+
+}
+
+
+
+
+.rightbox {
+box-sizing: border-box;
+position: absolute;
+width: 421px;
+height: 499.1px;
+left: 630px;
+top: 109.9px;
+
+border-radius: 0px 30px 30px 0px;
+
+background: #FFFFFF;
+}
+
+.leftbox {
+box-sizing: border-box;
+position: absolute;
+width: 350px;
+height: 499.1px;
+left: 280px;
+top: 109.9px;
+background: url(sign-in.jpg);
+color: #FFFFFF;
+
+
+border-radius: 30px 0px 0px 30px;
+
+}
+
+.fb img{
+position: absolute;
+width: 44px;
+height: 45px;
+left: 160px;
+top: 125px;
+
+}
+
+.google img{
+position: absolute;
+width: 45px;
+height: 45px;
+left: 220px;
+top: 125px;
+
+}
+
+.leftbox p{
+	position: absolute;
+    top: 130px;
+    left: 50px;
+}
+
+.rightbox p{
+	position: absolute;
+    top: 165px;
+    left: 130px;
+}
+
+.logo a {
+    width: 216px;
+height: 25px;
+left: 1090px;
+top: 36.9px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+text-transform: capitalize;
+text-decoration: none;
+color: #FFFFFF;
+
+}
+.logo a{
+position: absolute;
+font-style: white;
+
+
+}
+
+.logo img{
+
+width: 125px;
+height: 59px;
+position: fixed;
+left: 30px;
+top: 30px;
+}
+
+
+
+
+
+
+p, h3 , button, a{
+
+font-family: 'Montserrat';
+font-style: normal;
+text-align: center;
+}
+
+p {
+
+font-size: 12px;
+line-height: 21px;
+
+
+}
+
+h3{
+
+font-size: 30px;
+line-height: 30px;
+}
+
+
+.leftbox p{
+    position: absolute;
+    width: 241px;
+    height: 44px;
+    left: 51.9px;
+    top: 198.9px;
+}
+
+.leftbox h3{
+    position: absolute;
+    width: 241px;
+    height: 44px;
+    left: 50px;
+    top: 130px;
+}
+
+
+
+
+
+.rightbox button{
+    position: absolute;
+    width: 225px;
+    height: 46px;
+    left: 100px;
+    top: 350px;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FE5433;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+.leftbox a{
+	position: absolute;
+    width: 130px;
+    height: 46px;
+    left: 100px;
+    top: 268px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background: #23014d;
+    text-decoration: none;
+    padding-top: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: 25px;
+    background-color: transparent;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+
+
+
+
+.rightbox input{
+    position: absolute;
+    width: 320px;
+    height: 40px;
+    color: darkgray;
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.27);
+    border-radius: 6px;
+    outline: none;
+    left: 50px;
+}
+.rightbox h3 {
+    position: absolute;
+    width: 288.55px;
+    height: 34.6px;
+    left: 60.5px;
+    top: 49px;
+    line-height: 39px;
+    text-align: center;
+    color: #000000;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+
+.email input{
+
+    top: 215px;
+}
+
+.password input{
+    top: 265px;
+}
+
+
+
+
+.check-form input {
+    box-sizing: border-box;
+    position: absolute;
+    width: 13px;
+    height: 12px;
+    left: 63px;
+    top: 402px;
+    border: 1px solid #000000;
+}
+
+.check-form p {
+    position: absolute;
+    width: 243px;
+    height: 13px;
+    left: 80px;
+    top: 390px;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+}
