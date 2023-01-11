@@ -1,0 +1,225 @@
+body {
+    position: absolute;
+    width: 1310px;
+    height: 632px;
+    left: 22.5px;
+    padding: auto;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+
+}
+
+.fb img{
+position: absolute;
+width: 44px;
+height: 45px;
+left: 160px;
+top: 80px;
+
+}
+
+.google img{
+position: absolute;
+width: 45px;
+height: 45px;
+left: 220px;
+top: 80px;
+
+}
+
+.leftbox p{
+	position: absolute;
+    top: 130px;
+    left: 130px;
+}
+
+.leftbox {
+box-sizing: border-box;
+position: absolute;
+width: 421px;
+height: 499.1px;
+left: 280px;
+top: 109.9px;
+background: #FFFFFF;
+border-radius: 30px 0px 0px 30px;
+
+}
+
+
+.logo a {
+    width: 216px;
+height: 25px;
+left: 1090px;
+top: 36.9px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+text-transform: capitalize;
+text-decoration: none;
+color: #FFFFFF;
+
+}
+
+.logo a{
+position: absolute;
+font-style: white;
+
+
+}
+
+.logo img{
+
+width: 125px;
+height: 59px;
+position: fixed;
+left: 30px;
+top: 30px;
+}
+
+
+
+.rightbox {
+box-sizing: border-box;
+position: absolute;
+width: 350px;
+height: 499.1px;
+left: 701px;
+top: 109.9px;
+background: url(sign-in.jpg);
+border-radius: 0px 30px 30px 0px;
+color: #FFFFFF;
+}
+
+p, h3 , button, a{
+
+font-family: 'Montserrat';
+font-style: normal;
+text-align: center;
+}
+
+p {
+
+font-size: 12px;
+line-height: 15px;
+
+
+}
+
+h3{
+font-size: 30px;
+line-height: 44px;
+}
+
+
+.rightbox p{
+    position: absolute;
+    width: 241px;
+    height: 44px;
+    left: 51.9px;
+    top: 198.9px;
+}
+
+.rightbox h3{
+    position: absolute;
+    width: 241px;
+    height: 44px;
+    left: 51.9px;
+    top: 120px;
+}
+
+
+.leftbox button{
+    position: absolute;
+    width: 225px;
+    height: 46px;
+    left: 90px;
+    top: 438px;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FE5433;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+.rightbox a{
+	position: absolute;
+    width: 225px;
+    height: 46px;
+    left: 60px;
+    top: 320px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #23014d;
+    text-decoration: none;
+    padding-top: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: 25px;
+    background-color: transparent;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+
+
+
+
+.leftbox input{
+    position: absolute;
+    width: 320px;
+    height: 40px;
+    color: darkgray;
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.27);
+    border-radius: 6px;
+    outline: none;
+    left: 50px;
+
+}
+.name input{
+	
+    top: 170px;
+}
+.email input{
+
+    top: 215px;
+}
+.phone input{
+	;
+    top: 260px;
+}
+.password input{
+    top: 305px;
+}
+.confirmpassword input{
+    top: 350px;
+} 
+
+
+.check-form input {
+    box-sizing: border-box;
+    position: absolute;
+    width: 13px;
+    height: 12px;
+    left: 63px;
+    top: 402px;
+    border: 1px solid #000000;
+}
+
+.check-form p {
+    position: absolute;
+    width: 243px;
+    height: 13px;
+    left: 80px;
+    top: 390px;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+}
